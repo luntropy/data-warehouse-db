@@ -8,9 +8,11 @@ Scripts used to prepare a given data and automatically insert it in a database.
 
 - Data: [Here](https://sorry.vse.cz/~berka/challenge/pkdd1999/berka.htm)
 
-### To run the program
+### To run the scripts
 - Run `python3 initial_db.py`
 - Run `python3 data_warehouse.py`
+
+! The order is important.
 
 ### Output
 - Outputs message when a function completed the data insertion.
