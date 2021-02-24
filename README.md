@@ -6,7 +6,7 @@ Scripts used to prepare a given data and automatically insert it in a database.
 - The script "initial_db.py" prepares the given data and inserts it in the initial database.
 - The script "data_warehouse.py" extracts the data from the initial database, prepares it and inserts it in the data warehouse.
 
-- Data: [Here](https://sorry.vse.cz/~berka/challenge/pkdd1999/berka.htm)
+- Data description: [Here](https://sorry.vse.cz/~berka/challenge/pkdd1999/berka.htm)
 
 ### To run the scripts
 - Run `python3 initial_db.py`
